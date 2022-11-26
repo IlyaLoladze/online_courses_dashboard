@@ -11,9 +11,10 @@ There are 4 separate .csv files, that include information about different subjec
 
 After combining all files above in one csv, deleting duplications and nan values, changing data types and adding some columns (for more details: <a href="https://github.com/IlyaLoladze/online_courses_dashboard/blob/main/data_preprocessing/courses_dash_preprocessing.ipynb" target="_blank">link</a>) we got these columns in final dataset:
 
-| Attempt | #1    | #2    |
-| :---:   | :---: | :---: |
-| Seconds | 301   | 283   |
+| Column name | Description   |
+| :---:       | :---:         |
+| Column name | Description   |
+
 
 Column name	Description
 course_title	The title of the Udemy course. (String)
