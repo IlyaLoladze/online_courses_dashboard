@@ -36,6 +36,8 @@ After combining all files above in one csv, deleting duplications and nan values
 
 ### Course Creations
 
+<embed src="https://github.com/IlyaLoladze/online_courses_dashboard/blob/main/dashboard/Page%20Course%20Creations.pdf" width="500" height="375">
+
 ![](https://github.com/IlyaLoladze/online_courses_dashboard/blob/main/dashboard/Page%20Course%20Creations.pdf)
 
 ### User Activity
