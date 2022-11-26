@@ -13,7 +13,7 @@ After combining all files above in one csv, deleting duplications and nan values
 
 | Column name | Description   |
 | :---:       | :---:         |
-| Column name | Description   |
+| Column name | wjwejiwjiijewwijejiwjiweijijewiewiejwijew   |
 
 
 Column name	Description
