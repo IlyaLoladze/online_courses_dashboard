@@ -35,21 +35,15 @@ After combining all files above in one csv, deleting duplications and nan values
 ## Dashboard Pages
 
 ### Course Creations
-
-<embed src="https://github.com/IlyaLoladze/online_courses_dashboard/blob/main/dashboard/Page%20Course%20Creations.pdf" width="500" height="375">
-
-![](https://github.com/IlyaLoladze/online_courses_dashboard/blob/main/dashboard/Page%20Course%20Creations.pdf)
+![](https://github.com/IlyaLoladze/online_courses_dashboard/blob/main/dashboard/Page%20Course%20Creations.png)
 
 ### User Activity
-
-![](https://github.com/IlyaLoladze/online_courses_dashboard/blob/main/dashboard/Page%20Course%20Creations.pdf)
+![](https://github.com/IlyaLoladze/online_courses_dashboard/blob/main/dashboard/Page%20User%20Activity.png)
 
 ### Payments
-
-![](https://github.com/IlyaLoladze/online_courses_dashboard/blob/main/dashboard/Page%20Payments.pdf)
+![](https://github.com/IlyaLoladze/online_courses_dashboard/blob/main/dashboard/Page%20Payments.png)
 
 ### Quality Control
-
-![](https://github.com/IlyaLoladze/online_courses_dashboard/blob/main/dashboard/Page%20Quality%20Control.pdf)
+![](https://github.com/IlyaLoladze/online_courses_dashboard/blob/main/dashboard/Page%20Quality%20Control.png)
 
 
