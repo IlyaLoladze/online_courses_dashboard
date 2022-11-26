@@ -1,2 +1,2 @@
 # online_courses_dashboard
-In this pet-project I took a dataset from kaggle.com about online courses on the udemy platform to visualise it in Power BI
+A Power BI dahsboard, that analyzes dataset from <a href="https://www.kaggle.com/datasets/thedevastator/udemy-courses-revenue-generation-and-course-anal" target="_blank">kaggle.com</a>
