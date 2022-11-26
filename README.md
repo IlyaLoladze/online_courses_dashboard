@@ -13,12 +13,42 @@ After combining all files above in one csv, deleting duplications and nan values
 
 | Column name | Description   |
 | :---:       | :---:         |
-| Column name | wjwejiwjiijewwijejiwjiweijijewiewiejwijew   |
+| content_duration | |
+| :---:       | :---:         |
+| course_id | |
+| :---:       | :---:         |
+| course_title | The title of the Udemy course (String) |
+| :---:       | :---:         |
+| is_free | |
+| :---:       | :---:         |
+| level | |
+| :---:       | :---:         |
+| num_lectures | |
+| :---:       | :---:         |
+| num_reviews | |
+| :---:       | :---:         |
+| num_subscribers | |
+| :---:       | :---:         |
+| popularity | |
+| :---:       | :---:         |
+| price | The price of the Udemy course (Float) |
+| :---:       | :---:         |
+| published_date | |
+| :---:       | :---:         |
+| published_month | |
+| :---:       | :---:         |
+| published_timestampt | |
+| :---:       | :---:         |
+| published_Year | |
+| :---:       | :---:         |
+| Rating | |
+| :---:       | :---:         |
+| revenue | |
+| :---:       | :---:         |
+| subject | |
+| :---:       | :---:         |
+| url | The URL of the Udemy course. (String) |
 
-
-Column name	Description
-course_title	The title of the Udemy course. (String)
-url	The URL of the Udemy course. (String)
 price	The price of the Udemy course. (Float)
 num_subscribers	The number of subscribers for the Udemy course. (Integer)
 num_reviews	The number of reviews for the Udemy course. (Integer)
