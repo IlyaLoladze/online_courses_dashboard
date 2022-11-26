@@ -10,6 +10,25 @@ There are 4 separate .csv files, that include information about different subjec
  - Web development courses
 
 After combining all files above in one csv, deleting duplications and nan values, changing data types and adding some columns (for more details: <a href="https://github.com/IlyaLoladze/online_courses_dashboard/blob/main/data_preprocessing/courses_dash_preprocessing.ipynb" target="_blank">link</a>) we got these columns in final dataset:
-![](https://github.com/IlyaLoladze/online_courses_dashboard/blob/main/dashboard/data%20source.png)
+
+| Attempt | #1    | #2    |
+| :---:   | :---: | :---: |
+| Seconds | 301   | 283   |
+
+Column name	Description
+course_title	The title of the Udemy course. (String)
+url	The URL of the Udemy course. (String)
+price	The price of the Udemy course. (Float)
+num_subscribers	The number of subscribers for the Udemy course. (Integer)
+num_reviews	The number of reviews for the Udemy course. (Integer)
+num_lectures	The number of lectures in the Udemy course. (Integer)
+level	The level of the Udemy course. (String)
+Rating	The rating of the Udemy course. (Float)
+content_duration	The content duration of the Udemy course. (Float)
+published_timestamp	The timestamp of when the Udemy course was published. (Datetime)
+subject	The subject of the Udemy course. (String)
+
+
+
 
 
