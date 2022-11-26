@@ -32,8 +32,18 @@ After combining all files above in one csv, deleting duplications and nan values
 | content_duration | The content duration of the Udemy course. (Float) |
 | url | The URL of the Udemy course. (String) |
 
+## Dashboard Pages
 
+### Course Creations
+![](https://github.com/IlyaLoladze/online_courses_dashboard/blob/main/dashboard/Page%20Course%20Creations.pdf)
 
+### User Activity
+![](https://github.com/IlyaLoladze/online_courses_dashboard/blob/main/dashboard/Page%20Course%20Creations.pdf)
 
+### Payments
+![](https://github.com/IlyaLoladze/online_courses_dashboard/blob/main/dashboard/Page%20Payments.pdf)
+
+### Quality Control
+![](https://github.com/IlyaLoladze/online_courses_dashboard/blob/main/dashboard/Page%20Quality%20Control.pdf)
 
 
