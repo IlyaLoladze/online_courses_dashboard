@@ -13,34 +13,25 @@ After combining all files above in one csv, deleting duplications and nan values
 
 | Column name | Description   |
 | :---:       | :---:         |
-| content_duration | |
-| course_id | |
+| course_id | The id of the Udemy course (Int) |
 | course_title | The title of the Udemy course (String) |
-| is_free | |
-| level | |
-| num_lectures | |
-| num_reviews | |
-| num_subscribers | |
-| popularity | |
+| is_free | The type of Udemy courses: free / paid (String) |
+| level | The level of the Udemy course. (String) |
+| num_lectures | The number of lectures in the Udemy course. (Integer) |
+| num_reviews | The number of reviews for the Udemy course. (Integer) |
+| num_subscribers | The number of subscribers for the Udemy course. (Integer) |
+| popularity | A popularity of the course, that was calculated by subscribers amount (String) |
 | price | The price of the Udemy course (Float) |
-| published_date | |
-| published_month | |
-| published_timestampt | |
-| published_Year | |
-| Rating | |
-| revenue | |
-| subject | |
+| published_date | Trunced to day 'published_timestampt' (Datetime) |
+| published_month | Trunced to the start of the month 'published_timestampt' (Datetime) |
+| published_timestampt | The timestamp of when the Udemy course was published. (Datetime) |
+| published_Year | Trunced to the start of the year 'published_timestampt' (Datetime) |
+| Rating | The rating of the Udemy course. (Float) |
+| revenue | = num_subscribers * price |
+| subject | The subject of the Udemy course. (String) |
+| content_duration | The content duration of the Udemy course. (Float) |
 | url | The URL of the Udemy course. (String) |
 
-price	The price of the Udemy course. (Float)
-num_subscribers	The number of subscribers for the Udemy course. (Integer)
-num_reviews	The number of reviews for the Udemy course. (Integer)
-num_lectures	The number of lectures in the Udemy course. (Integer)
-level	The level of the Udemy course. (String)
-Rating	The rating of the Udemy course. (Float)
-content_duration	The content duration of the Udemy course. (Float)
-published_timestamp	The timestamp of when the Udemy course was published. (Datetime)
-subject	The subject of the Udemy course. (String)
 
 
 
