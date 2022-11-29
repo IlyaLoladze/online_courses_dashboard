@@ -54,5 +54,5 @@ The quality control is executed in this dashboard by analyzing the rating metric
 
 ## Simplifications in project
 The used dataset in this project does not represent all variaty of courses on udemy platform and does not have all needed for this dashboard data, so some simplifications were made:
-1. A column 'published_timestamp', that represents the data of courses publication is also used as data of subscription for this course and data for writing a review on it. For the little compensation of current point in all pages of the dashvoard a column 'published_month' is used.
+1. A column 'published_timestamp', that represents the data of courses publication is also used as data of subscription for this course and data for writing a review on it. For the little compensation of current point in all pages of the dashboard a column 'published_month' is used.
 2. In kaggle datasets the most courses are represented in a 'Web Development' subject, because this dataset were firtsly made as a courses from this section. Later other sections ('Business', 'Music', 'Graphic Design') were added. Therefore some metrics are more stable and simply bigger in 'Web Development'.
